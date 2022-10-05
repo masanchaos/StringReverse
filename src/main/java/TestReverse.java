@@ -12,9 +12,11 @@ public class TestReverse {
         String str = input.next();
         String s = stringReverseByNum(str, 3, 6);
         System.out.println("部分反转后的字符串=" + s);
+        System.out.println("部分反转后的字符串=" + s);
+        System.out.println("部分反转后的字符串=" + s);
     }
 
-    //全反转111
+    //全反转11111111111111111
     public static String stringReverse(String str){
         StringBuffer stringBuffer = new StringBuffer(str);
         StringBuffer strReverse = stringBuffer.reverse();
