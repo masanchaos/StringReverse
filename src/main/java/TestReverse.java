@@ -14,6 +14,7 @@ public class TestReverse {
         System.out.println("部分反转后的字符串=" + s);
         System.out.println("部分反转后的字符串=" + s);
         System.out.println("部分反转后的字符串=" + s);
+        System.out.println("部分反转后的字符串=" + s);
     }
 
     //全反转11111111111111111
